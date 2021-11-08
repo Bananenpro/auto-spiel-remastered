@@ -1,0 +1,7 @@
+{
+  "name": "Wüste",
+  "friction": 100.0,
+  "background": "rsc/sprites/backgrounds/desert.png",
+  "obstacle": "rsc/sprites/obstacles/barrier.png",
+  "coin": "rsc/sprites/coins/coin.png"
+}

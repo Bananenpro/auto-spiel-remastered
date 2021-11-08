@@ -1,0 +1,7 @@
+{
+  "background_change_delay": 12000,
+  "background_speedup_delay": 15000,
+  "obstacle_spawn_delay": 400,
+  "coin_spawn_delay": 2000,
+  "log_level": "TRACE"
+}

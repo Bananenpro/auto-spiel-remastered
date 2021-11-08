@@ -1,0 +1,7 @@
+{
+  "name": "Regenbogen",
+  "friction": 0.0,
+  "background": "rsc/sprites/backgrounds/rainbow.png",
+  "obstacle": "rsc/sprites/obstacles/barrier.png",
+  "coin": "rsc/sprites/coins/coin.png"
+}

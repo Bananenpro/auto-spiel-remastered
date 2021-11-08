@@ -1,0 +1,7 @@
+{
+  "name": "Brücke",
+  "friction": 100.0,
+  "background": "rsc/sprites/backgrounds/bridge.png",
+  "obstacle": "rsc/sprites/obstacles/barrier.png",
+  "coin": "rsc/sprites/coins/coin.png"
+}

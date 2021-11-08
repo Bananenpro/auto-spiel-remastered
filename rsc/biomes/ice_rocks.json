@@ -1,0 +1,7 @@
+{
+  "name": "Eis Felsen",
+  "friction": 0.5,
+  "background": "rsc/sprites/backgrounds/ice_rocks.png",
+  "obstacle": "rsc/sprites/obstacles/barrier.png",
+  "coin": "rsc/sprites/coins/coin.png"
+}
