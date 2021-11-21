@@ -1,7 +1,7 @@
 # Auto Spiel Remastered
 
 Drive through different biomes and dodge obstacles while collecting coins.
-[More details...](https://bananenpro05.duckdns.org/projects/auto-spiel-remastered)
+[More details...](https://julianh.de/projects/auto-spiel-remastered)
 
 ## License
 
